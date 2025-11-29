@@ -1,0 +1,5 @@
+{
+  "name": "VizGenius AI",
+  "description": "由 Gemini 驱动的智能 Excel 数据可视化工具。上传数据，获取即时 AI 分析，并生成美观、可定制的图表。",
+  "requestFramePermissions": []
+}
